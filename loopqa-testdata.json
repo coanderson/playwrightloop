@@ -1,7 +1,7 @@
 [
   {
-    "name":  "Test1",
-    "section": "Cross-functional project plan, Project.",
+    "name": "Test1",
+    "project": "Cross-functional project plan, Project",
     "task": "Draft project brief",
     "column": "To do",
     "tags": [ "Non-Priority", "On track." ]
@@ -10,7 +10,7 @@
 
   {
     "name": "Test2",
-    "section": "Cross-functional project plan, Project.",
+    "project": "Cross-functional project plan, Project",
     "task": "Schedule kickoff meeting",
     "column": "To do",
     "tags": [ "Medium", "At risk." ]
@@ -18,7 +18,7 @@
 
   {
     "name": "Test3",
-    "section": "Cross-functional project plan, Project.",
+    "project": "Cross-functional project plan, Project",
     "task": "Share timeline with teammates",
     "column": "To do",
     "tags": [ "High", "Off track." ]
@@ -26,7 +26,7 @@
 
   {
     "name": "Test4",
-    "section": "Work Requests",
+    "project": "Work Requests",
     "task": "[Example] Laptop setup for new hire",
     "column": "New Requests",
     "tags": [ "Medium priority,", "Low effort,", "New hardware,", "Not Started." ]
@@ -34,7 +34,7 @@
 
   {
     "name": "Test5",
-    "section": "Work Requests",
+    "project": "Work Requests",
     "task": "[Example] Password not working",
     "column": "In Progress",
     "tags": [ "Low effort,", "Low priority,", "Password reset,", "Waiting." ]
@@ -42,7 +42,7 @@
 
   {
     "name": "Test6",
-    "section": "Work Requests",
+    "project": "Work Requests",
     "task": "[Example] New keycard for Daniela V",
     "column": "Completed",
     "tags": [ "Low effort,", "New hardware,", "High Priority,", "Done." ]
